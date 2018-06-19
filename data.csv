@@ -1,0 +1,8 @@
+Code,Description,Explanation
+00,Unspecified,A person who cannot be classified according to the definitions of any of the six racial/ethnic categories.
+01,American Indian/Alaska Native,"A person having origins (ancestry) in any of the original peoples of North and South America (including Central America), and who maintains cultural identification through tribal affiliation or community recognition."
+02,Asian,"A person having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent.  This area includes, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam."
+03,"Black or African American, not of Hispanic origin","A person having origins in any of the black racial groups of Africa.  Terms such as ""Haitian"" or ""Negro"" can be used in addition to ""Black or African American."""
+04,Hispanic,"A person who traces his or her origin or descent to Mexican, Puerto Rico, Cuba, Central and South American, and other Spanish cultures, regardless of race.  The term, ""Spanish origin,"" can be used in addition to ""Hispanic or Latino."""
+05,"White, not of Hispanic origin","A person having origins in any of the original peoples of Europe, North Africa, or the Middle East."
+06,Native Hawaiian/Other Pacific Islander,"A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands."

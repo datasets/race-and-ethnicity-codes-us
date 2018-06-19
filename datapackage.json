@@ -1,0 +1,77 @@
+{
+  "name":"us-race-and-ethnicity-codes",
+  "title":"US Race and Ethnicity Codes",
+  "description":"This data set contains Race/Ethinicty codes.",
+  "documentation":"Race and ethnicity describe groups to which individuals belong, identify with, or belong in the eyes of the community. The designations categorize U.S. citizens, resident aliens, and other eligible non\u2010citizens.",
+  "date_created":"2016",
+  "last_updated":"2016",
+  "version":"1",
+  "update_frequency":"Irregular",
+  "temporal_coverage":"N/A",
+  "spatial_coverage":"N/A",
+  "license":"John Snow Labs Standard License",
+  "sources":[
+    {
+      "name":"John Snow Labs"
+    },
+    {
+      "name":"Virginia Department of Education"
+    }
+  ],
+  "contributors":[
+    {
+      "name":"John Snow Labs",
+      "email":"support@JohnSnowLabs.com",
+      "uri":"http://www.JohnSnowLabs.com",
+      "role":"author"
+    }
+  ],
+  "source_license_requirements":"N/A",
+  "citation":"N/A",
+  "keywords":[
+    "Race",
+    "Ethnicity"
+  ],
+  "other_titles":[
+    "Race and Ethnicity"
+  ],
+  "resources":[
+    {
+      "path":"data.csv",
+      "name":"us-race-and-ethnicity-codes-csv",
+      "format":"csv",
+      "mediatype":"text/csv",
+      "schema":{
+        "fields":[
+          {
+            "name":"Code",
+            "description":"Unique string representation of Race_Ethnicity code",
+            "type":"string",
+            "constraints":{
+              "unique":true,
+              "required":true,
+              "maxLength":10
+            }
+          },
+          {
+            "name":"Description",
+            "description":"Small description of specific Race and Ethnicity",
+            "type":"string",
+            "constraints":{
+              "required":true,
+              "maxLength":100
+            }
+          },
+          {
+            "name":"Explanation",
+            "description":"definition of specific Race and Ethnicity",
+            "type":"string",
+            "constraints":{
+              "maxLength":3000
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
