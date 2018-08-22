@@ -1,2 +1,1 @@
-# race-and-ethnicity-codes-us
-US Race and Ethnicity Codes
+Race and ethnicity describe groups to which individuals belong, identify with, or belong in the eyes of the community. The designations categorize U.S. citizens, resident aliens, and other eligible non\u2010citizens.
